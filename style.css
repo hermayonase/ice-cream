@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+.header {
+    background-color: pink;
+}
+
+
+.header img {
+    width: 400px;
+    height: 300px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    float: left;
+}
+
+
+.banner .slide h1 {
+    font-size: 200px;
+    color: #fff;
+}
+
